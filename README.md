@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # human-pose-estimation
 
 This repository contains a project that detects and analyzes human poses using machine learning techniques. It identifies key body points and visualizes them as a stick figure, making it useful for applications like fitness tracking, sports analysis, and interactive systems. This project implements human pose estimation using AI/ML techniques with both TensorFlow and OpenVINO backends. It leverages Python and core libraries for implementation and visualization.
+=======
+# Human Pose Estimation
+
+This project implements human pose estimation using AI/ML techniques with both TensorFlow and OpenVINO backends. It leverages Python and core libraries for implementation and visualization.
+>>>>>>> 1d401188377b800c8ecdfa992cc5449585911bb9
 
 ![Human pose estimation output showing detected keypoints on a person.](public/images/Human_Pose_Estimation_example_1.png)
 
